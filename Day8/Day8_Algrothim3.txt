@@ -1,0 +1,12 @@
+5. Write a program in C to sort an array using Pointer. The sample output must be as below
+
+
+
+
+1)enter the array size
+2)read the array size
+3)enter array elements
+4)read array elements using for loop
+5)sorting the array elements (using two for loops) with one temparary variable using pointers
+6)print the array elements after sortin
+Footer
