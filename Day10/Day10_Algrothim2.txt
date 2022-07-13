@@ -1,0 +1,11 @@
+/Write a function to store "G_Str_SteeringAngle_sint" to "G_Msg_SteeringInformation_Byte" as shown below.
+//signed int CG_Msg_EngineInformation_Byte[i];
+//unsigned char G_Msg_SteeringInformation_Byte[3u];"
+Algorithm:
+1.Declare the variable as G_Str_SteeringAngle_sint as -60
+2.WE have to iterate the above variable in 12 times as per qustion
+3.Take an a array for byte 0 to byte 2 and you have to acess those information as per qustion
+ unsigned char G_Msg_SteeringInformation_Byte[3u]
+4.You have to iterate statement 3
+5.Note down the result.
+Footer
