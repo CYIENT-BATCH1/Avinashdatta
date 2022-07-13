@@ -1,0 +1,13 @@
+//Write a program to do binary search in a sorted array. Program should take input of sorted values and search value. 
+//(Make number of elements as configurable value)
+//How binary search works is explained below.
+Algorithm:
+>>Accept the stored data 
+>>Accept the serch value
+>>size of array/2
+>>Get the value of x=array[size of array/2]
+>>serch value > x
+>>size of array-x
+>>push array data to (size of array /2)+1
+>>Repeat the steps 3 to 6 untill you found the value.
+Footer
