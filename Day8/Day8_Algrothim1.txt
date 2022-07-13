@@ -1,0 +1,9 @@
+//Realize a function which has 2 arguments and 1 return value. Argument 1 is Byte value, Argument 2 is bit position.
+ //Function has to flip the bit position (as per argument 2) in argument 1 byte value and return complete byte value
+algorithm:
+1)enter the arg1 and arg2
+2)read the arg1 and arg2
+3)calling function and passing the arguments
+4) flip the using bitwise operaation its store in arg1
+5)return the arg1
+6)print return value

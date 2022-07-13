@@ -1,0 +1,9 @@
+/Set the register T0CON value such a way that bit TMR0ON and PSA bit are set (1), without disturbing the other bits.
+//Find out the value of T0PS2, T0PS1, T0PS0 bits in T0CON register if the value of the register is 0xF3
+1)enter the T0CON register
+2)read the T0CON register
+3)asign position of TMR0ON and PSA
+4)set the two bits (i.e TMR0ON and PSA)using bitwise operation
+5) print the T0CON
+6)calling function and passing the register (i.e T0CON)
+7)print T0PS0 T0PS1 T0PS2 bits using for loop
