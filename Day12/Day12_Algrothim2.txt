@@ -1,0 +1,6 @@
+/*Find common elements in three sorted arrays, 3 array values are given as input to program.
+Algorithm:
+1.Declare a three arrays and assign some values to three arrays.
+2.Find the size of three arrays 
+3.Compare a varibles of three arrays 
+4.which value is same in three arrays is print 
